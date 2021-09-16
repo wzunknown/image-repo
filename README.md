@@ -1,1 +1,1 @@
-image repo for marktext
+image repo for marktext / typora
